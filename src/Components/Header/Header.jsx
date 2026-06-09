@@ -1,7 +1,6 @@
 import CricketLogo from '../../assets/logo.png'
 import { FaCoins } from 'react-icons/fa';
 
-
 const Header = ({ coins }) => {
 
     return (
