@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "author_image": "https://i.ibb.co/zH7F7cX0/301403-6.webp",
+        "author_image": "https://i.ibb.co/QLhkQhn/Shakib-Al-Hasan.jpg",
         "author_name": "Tamim-Iqbal",
         "country_name": "Bangladesh",
         "role": "Batsman",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "author_image": "https://i.ibb.co/Mxc8jyph/OIP.jpg",
+        "author_image": "https://i.ibb.co/QLhkQhn/Shakib-Al-Hasan.jpg",
         "author_name": "Sakib Al Hasan",
         "country_name": "Bangladesh",
         "role": "All-rounder",
