@@ -1,3 +1,4 @@
+// Import all routing path 
 import { useState } from "react";
 import './App.css'
 import Header from './Components/Header/Header'
@@ -6,7 +7,6 @@ import Bpls from './Components/Bpls/Bpls'
 import Bookmarks from './Components/BookMarks/Bookmarks'
 import TransitionFooter from "./Components/Transition-footer/TransitionFooter";
 import Footer from './Components/Footer/Footer'
-
 
 function App() {
   const [coins, setCoins] = useState(0);
@@ -17,7 +17,6 @@ function App() {
     let upDated = (coins + 600000);
     setCoins(upDated);
   };
-
 
   return (
     <>
